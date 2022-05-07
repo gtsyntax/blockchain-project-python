@@ -1,5 +1,4 @@
 from datetime import datetime
-import time
 from cryptography.hazmat.primitives import hashes
 
 class Block:
